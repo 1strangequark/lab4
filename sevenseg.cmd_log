@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj lab4 -o C:/Users/Student/Desktop/isaac-lab6/lab4/sevenseg.tfi -lib work C:/Users/Student/Desktop/isaac-lab6/lab4//sevenseg.v -module sevenseg -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

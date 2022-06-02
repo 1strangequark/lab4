@@ -1,0 +1,17 @@
+ISim log file
+Running: C:\Users\Student\Desktop\isaac-lab6\lab4\tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Student/Desktop/isaac-lab6/lab4/tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x8ef4fb42)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+WARNING: File "C:/Users/Student/Desktop/isaac-lab6/lab4/lab4_top.v" Line 28.  For instance uut_/seg_handler/, width 8 of formal port encoding is not equal to width 7 of actual signal seg.
+WARNING: File "C:/Users/Student/Desktop/isaac-lab6/lab4/tb.v" Line 13.  For instance tb/uut_/, width 7 of formal port seg is not equal to width 8 of actual signal seg.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run all
+Stopped at time : 1530001 us : File "C:/Users/Student/Desktop/isaac-lab6/lab4/tb.v" Line 61

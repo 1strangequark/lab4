@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj lab4 -o C:/Users/Student/Desktop/isaac-lab6/lab4/arrow_manager.tfi -lib work C:/Users/Student/Desktop/isaac-lab6/lab4//arrow_manager.v -module arrow_manager -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
